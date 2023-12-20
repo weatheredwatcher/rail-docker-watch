@@ -1,3 +1,2 @@
-## Ruby on Rails Development Environment
-### With Docker Compose Watch
+## Ruby on Rails Dev With Docker Compose Watch
 
